@@ -1,4 +1,4 @@
-# Dracula for [DWM](https://dwm.suckless.org)
+# Dracula Theme for [DWM](https://dwm.suckless.org)
 
 > A dark theme for [DWM](https://dwm.suckless.org)
 
