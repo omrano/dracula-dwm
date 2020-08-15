@@ -1,17 +1,7 @@
-### [X](http://link-to-x.com)
+### DWM - dynamic window manager
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Download using the [GitHub .zip download](https://github.com/prathampowar2001/dracula-dwm/archive/master.zip) option and unzip them.
 
-    $ git clone https://github.com/dracula/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+You have to just replace your colors in config.h with the given snippet in config.h . Copy the given colors array to the default colors array.Warning! May have to be edited if using colorbar patch .

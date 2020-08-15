@@ -1,12 +1,12 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [DWM](https://dwm.suckless.org)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [DWM](https://dwm.suckless.org)
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/dwm](https://draculatheme.com/dwm).
 
 ## Team
 
